@@ -7,6 +7,7 @@
 # program output to ensure the result is accurate. Adjust code as needed
 # before running pytest.
 
+
 # --- Snippet 1 ---
 # This should display a greeting
 message = "Hello, welcome to Python!"
